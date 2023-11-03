@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Mayitobp , I'm a Telecommunications and Electronics Ingineer
-###  I’m interested in become a Senior Dev.
-####  I’m currently learning ... Flask , Django and connect them with React Front-End
+- I’m interested in become a Senior Dev.
+- I’m currently learning ... Flask , Django and connect them with React Front-End
 - 
 - 📫 How to reach me ...
 -           mayitobp99@gmail.com
