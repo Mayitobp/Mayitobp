@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @Mayitobp , I'm a Telecommunications and Electronics Ingineer
+- Semi-Senior Python dev.
 - I’m interested in become a Senior Dev.
 - I’m currently learning ... Flask , Django, FastAPI.
 - Junior development with LangChain and LLM's
