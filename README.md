@@ -11,7 +11,7 @@
 
 ## 💻 Habilidades
 
-- **Lenguajes de Programación:** Python
+- **Lenguajes de Programación:** Python, Dart(Flutter Dev)
 - **Back-End Frameworks:** Flask, FastAPI
 - **Inteligencia Artificial:** LLMs, RAG
 - **Otros:** Git, Bluetooth (Bleak), API REST, manejo de bases de datos (SQL, NoSQL)
@@ -29,7 +29,7 @@
 
 ## 🌱 Actualmente Aprendiendo
 
-- Desarrollo avanzado de aplicaciones con **IA**
+- Desarrollo avanzado de aplicaciones e integración con **IA**
 - Técnicas de **Data Science** y **Machine Learning**
 
 ---
