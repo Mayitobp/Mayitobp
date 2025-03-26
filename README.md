@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Mario Bernal Pérez
 
-**Ingeniero en Telecomunicaciones y Electrónica** con un año de experiencia en desarrollo de software, especializado en **Python** y **back-end**. Me apasiona la **Inteligencia Artificial** y el desarrollo de aplicaciones **web** que aporten soluciones innovadoras.
+**Ingeniero en Telecomunicaciones y Electrónica** con un año de experiencia en desarrollo de software, especializado en **Python(back-end)** y **Dart(Flutter)**. Me apasiona la **Inteligencia Artificial** y el desarrollo de aplicaciones que aporten soluciones innovadoras.
 
 ## 🚀 Sobre Mí
 
