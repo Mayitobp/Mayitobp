@@ -58,17 +58,6 @@ Software Developer and Telecommunications Engineer passionate about building inn
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mayitobp&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayitobp&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%"/>
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
